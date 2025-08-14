@@ -1,6 +1,6 @@
 # Exercícios em Javascript (para iniciantes em programação)
 
-TESTE
+Teste- passo a passo como enviar arquivos em githubs 
 1. rm -rf .git
 2. git init
 3. git add .
